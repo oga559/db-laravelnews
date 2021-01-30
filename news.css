@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+header{
+    background-color: aqua;
+}
+.toukou{
+    display: block;
+    margin: 20px 0px 20px 0px;
+}
